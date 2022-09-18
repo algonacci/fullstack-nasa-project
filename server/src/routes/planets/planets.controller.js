@@ -1,7 +1,7 @@
-const { getAllplanets } = require("../../models/planets.model");
+const { getAllPlanets } = require("../../models/planets.model");
 
 function httpGetAllPlanets(req, res) {
-  return res.status(200).json(getAllplanets());
+  return res.status(200).json(getAllPlanets());
 }
 
 module.exports = {
