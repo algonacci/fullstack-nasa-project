@@ -1,0 +1,63 @@
+8 habitable planets found!
+🚀 [SERVER] is running on port http://localhost:8000
+8 habitable planets found!
+🚀 [SERVER] is running on port http://localhost:8000
+8 habitable planets found!
+🚀 [SERVER] is running on port http://localhost:8000
+8 habitable planets found!
+🚀 [SERVER] is running on port http://localhost:8000
+8 habitable planets found!
+🚀 [SERVER] is running on port http://localhost:8000
+8 habitable planets found!
+🚀 [SERVER] is running on port http://localhost:8000
+8 habitable planets found!
+🚀 [SERVER] is running on port http://localhost:8000
+8 habitable planets found!
+🚀 [SERVER] is running on port http://localhost:8000
+::1 - - [01/Oct/2022:03:31:37 +0000] "GET / HTTP/1.1" 200 1002 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:31:37 +0000] "GET /static/js/main.1c2cad94.js HTTP/1.1" 200 473649 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:31:37 +0000] "GET /static/js/main.1c2cad94.js HTTP/1.1" 200 473649 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:31:37 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:31:38 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:31:38 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:31:38 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:31:38 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:31:38 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:31:38 +0000] "GET /planets HTTP/1.1" 200 9862 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:31:38 +0000] "GET /launches HTTP/1.1" 200 203 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:31:38 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:31:38 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:31:38 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:31:38 +0000] "GET /favicon.png HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:31:38 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:31:43 +0000] "POST /launches HTTP/1.1" 201 195 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:31:43 +0000] "GET /launches HTTP/1.1" 200 399 "http://localhost:8000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:31:56 +0000] "DELETE /launches/101 HTTP/1.1" 404 28 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:04 +0000] "DELETE /launches/101 HTTP/1.1" 404 28 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:05 +0000] "DELETE /launches/101 HTTP/1.1" 404 28 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:07 +0000] "DELETE /launches/100 HTTP/1.1" 200 203 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:07 +0000] "GET /launches HTTP/1.1" 200 205 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:14 +0000] "POST /launches HTTP/1.1" 201 183 "http://localhost:8000/launch" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:14 +0000] "GET /launches HTTP/1.1" 200 387 "http://localhost:8000/launch" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:21 +0000] "DELETE /launches/101 HTTP/1.1" 404 28 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:22 +0000] "DELETE /launches/101 HTTP/1.1" 404 28 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:23 +0000] "DELETE /launches/101 HTTP/1.1" 404 28 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:24 +0000] "DELETE /launches/101 HTTP/1.1" 404 28 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:24 +0000] "DELETE /launches/101 HTTP/1.1" 404 28 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:24 +0000] "DELETE /launches/101 HTTP/1.1" 404 28 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:24 +0000] "DELETE /launches/101 HTTP/1.1" 404 28 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:25 +0000] "DELETE /launches/101 HTTP/1.1" 404 28 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:25 +0000] "DELETE /launches/101 HTTP/1.1" 404 28 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:25 +0000] "DELETE /launches/101 HTTP/1.1" 404 28 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:26 +0000] "DELETE /launches/100 HTTP/1.1" 200 203 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:26 +0000] "GET /launches HTTP/1.1" 200 205 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:44 +0000] "POST /launches HTTP/1.1" 201 195 "http://localhost:8000/launch" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:44 +0000] "GET /launches HTTP/1.1" 200 399 "http://localhost:8000/launch" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:48 +0000] "DELETE /launches/101 HTTP/1.1" 200 197 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:32:48 +0000] "GET /launches HTTP/1.1" 200 401 "http://localhost:8000/upcoming" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:33:19 +0000] "POST /launches HTTP/1.1" 201 183 "http://localhost:8000/launch" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:33:19 +0000] "GET /launches HTTP/1.1" 200 387 "http://localhost:8000/launch" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:33:25 +0000] "POST /launches HTTP/1.1" 201 184 "http://localhost:8000/launch" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:33:25 +0000] "GET /launches HTTP/1.1" 200 584 "http://localhost:8000/launch" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:33:33 +0000] "POST /launches HTTP/1.1" 201 183 "http://localhost:8000/launch" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+::1 - - [01/Oct/2022:03:33:33 +0000] "GET /launches HTTP/1.1" 200 387 "http://localhost:8000/launch" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
