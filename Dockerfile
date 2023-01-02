@@ -11,7 +11,10 @@ COPY server/package*.json server/
 RUN npm run install-server --only=production
 
 COPY client/ client/
-RUN npm run build --prefix client
+# RUN npm run build --prefix client
+# THIS IS FOR LINUX
+RUN npm run build-docker --prefix client
+
 
 COPY server/ server/
 
